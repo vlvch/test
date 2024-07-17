@@ -398,10 +398,10 @@ h2.title:after {
   background: url(../img/separator_red.webp) center no-repeat;
 }
 h2.title span {
-  color: #c39c00;
+  color: #8a6e00;
 }
 .dark_theme h2.title span {
-  color: #c39c00;
+  color: #8a6e00;
 }
 .separator {
   width: 62px;
@@ -1132,7 +1132,7 @@ label {
   padding: 0 30px;
 }
 .use_steps_section .benefits_list3 h4 {
-  color: #c39c00;
+  color: #8a6e00;
 }
 .footer_section {
   padding: 25px 0;
